@@ -64,3 +64,4 @@ workflows:
           requires:
             - train_and_upload_regression_model
             #time to publish!
+            #second try
