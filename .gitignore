@@ -127,3 +127,5 @@ packages/neural_network_model/neural_network_model/datasets/training_data_refere
 
 kaggle.json
 packages/ml_api/uploads/*
+
+.envrc
